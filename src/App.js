@@ -21,6 +21,7 @@ function App() {
   return (
     <>
       <div className="app">
+      <h2 className="nameOfMe">Prashant Sharma</h2>
         <div className="search">
           <input
             value={location}
